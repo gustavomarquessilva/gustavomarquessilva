@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="gustavomarques.dev" width="22px" src=""gustavomarques.dev" />
-<img align="left" alt="twitch.tv/gugag0d | Twitch" width="22px" src="twitch.tv/gugag0d" />
-<img align="left" alt="twitter.com/gugagod2 | Twitter" width="22px" src="twitter.com/gugagod2" />
-<img align="left" alt="linkedin.com/in/gustavo-marques-silva-783179163/ | LinkedIn" width="22px" src="linkedin.com/in/gustavo-marques-silva-783179163/" />
-<img align="left" alt="instagram.com/gustavomarques.2/ | Instagram" width="22px" src="instagram.com/gustavomarques.2/" />
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][youtube]
+[<img align="left" alt="gugag0d | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/gugagod2]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
