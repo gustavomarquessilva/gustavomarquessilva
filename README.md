@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Marques [guga]👋
 
 ## I'm a Developer and CSGO "professional" player 🤣!
-- 🔭 I’m currently working at Nèscara [website]!
+- 🔭 I’m currently working at Sinqia [website]!
 - 🌱 I’m currently learning SalesForce
 - ⚡ Fun fact: I love play guitar
 
@@ -32,9 +32,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [guga]: https://gustavomarques.dev
-[website]: https://www.nescara.com/site/
+[website]: https://www.sinqia.com.br/
 [twitter]: https://twitter.com/gugagod2
 [twitch]: https://www.twitch.tv/gugag0d
-[instagram]: https://www.instagram.com/gustavomarques.2/
-[linkedin]: https://www.linkedin.com/in/gustavo-marques-silva-783179163/
+[instagram]: https://www.instagram.com/ogustavo.marques/
+[linkedin]: https://www.linkedin.com/in/gustavo-marques-silva/
 
