@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Marques [guga]👋
 
 ## I'm a Developer and CSGO "professional" player 🤣!
-- 🔭 I’m currently working at Sinqia [website]!
+- 🔭 I’m currently working at IFood [website]!
 - 🌱 I’m currently learning SalesForce
 - ⚡ Fun fact: I love play guitar
 
@@ -33,7 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [guga]: https://gustavomarques.dev
-[website]: https://www.sinqia.com.br/
+[website]: https://www.ifood.com.br/
 [twitter]: https://twitter.com/gugagod2
 [twitch]: https://www.twitch.tv/gugag0d
 [instagram]: https://www.instagram.com/ogustavo.marques/
